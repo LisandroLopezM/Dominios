@@ -1,0 +1,28 @@
+.cosas {
+justify-content: center;
+text-align: justify;
+background-color: rgb(141, 187, 202);
+border: 5px solid black;
+height: 1000px;
+width: 600px;
+margin: 50px;
+align-items: center;
+justify-content:baseline;
+}
+div {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.cosas h1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-content:baseline;
+}
+.enlases {
+
+justify-content:baseline;
+
+}
